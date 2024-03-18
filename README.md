@@ -22,3 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+# Go to [week 1](https://github.com/jmscarnatto/barter-school-supplies/tree/week1)
